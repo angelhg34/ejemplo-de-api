@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Samuel",
+      "apellido": "Ardila",
+      "telefono": 3134685626,
+      "email": "mig@gmail.com"
+    },
+    {
+      "id": "2",
+      "nombre": "Miguel",
+      "apellido": "Ortiz",
+      "telefono": 31476437638,
+      "email": "samuuulx@gmail.com"
+    }
+  ],
+  "categoria": [
+    {
+      "id": "1",
+      "nombre": "postre"
+    },
+    {
+      "id": "2",
+      "nombre": "bebidas"
+    }
+  ]
+}
